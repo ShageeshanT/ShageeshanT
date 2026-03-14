@@ -6,13 +6,13 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shageeshan-t-746a63334/">
+  <a href="https://www.linkedin.com/in/shageeshan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_YOUTUBE_CHANNEL_URL">
+  <a href="https://www.youtube.com/@algoknights-sliit">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="https://www.instagram.com/shagee_joxtyn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://shageeshan.vercel.app/">
