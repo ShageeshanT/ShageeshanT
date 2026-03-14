@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=ShageeshanT&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=ShageeshanT&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
   </a>
 </p>
 
@@ -96,10 +96,4 @@
 
 ---
 
-<p align="center">
-  <i>"Logic + Art = 💡"</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer Wave"/>
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
