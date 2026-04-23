@@ -36,8 +36,6 @@
 - 🤖 Passionate about **AI, Automation & Embedded Systems**
 - 🔧 Building projects with **ESP32, TFLite, n8n**
 - 🧩 Problem Solver. Lifelong Learner.
-- 🌐 Check out my portfolio → [shageeshan.vercel.app](https://shageeshan.vercel.app/)
-
 ---
 
 ## 🛠️ Languages and Tools
