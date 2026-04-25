@@ -16,9 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,mongodb,mysql,tensorflow,arduino,git" alt="tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShageeshanT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160" alt="github stats"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,html,css,react,nextjs,nodejs,express,tailwind,tensorflow,pytorch,opencv,mongodb,mysql,arduino,raspberrypi,docker,git,github,vscode,postman&perline=12" alt="tech stack"/>
 </p>
