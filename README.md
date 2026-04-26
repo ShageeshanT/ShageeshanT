@@ -6,7 +6,7 @@
 
 <p align="center">
   CS undergrad at SLIIT · Dean's List · GPA 3.76 <br/>
-  Into AI, automation, and embedded systems.
+  AI and Automation Engineer - Developer
 </p>
 
 <p align="center">
