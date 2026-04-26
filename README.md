@@ -1,13 +1,33 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cozy pixel-art coding setup"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850" alt="cozy pixel-art coding setup"/>
 </p>
 
 <h2 align="center">Hey, I'm Shageeshan 👋</h2>
 
 <p align="center">
-  CS undergrad at SLIIT · Dean's List · GPA 3.76 <br/>
-  Into AI, automation, and embedded systems.
+  CS undergrad @ SLIIT · Dean's List · GPA 3.76
 </p>
+
+<table align="center">
+  <tr>
+    <td width="55%" valign="middle">
+
+<br/>
+
+- coffeeeeeee
+- i draw
+- bad wifi makes me feral
+- two emotional states: **HELLL YEAHHH** or **FAHHH**
+- always coding at 4:59am, never on time
+
+<br/>
+
+  </td>
+  <td width="45%" align="center">
+    <img src="./matrix.gif" width="320" alt="matrix ascii animation"/>
+  </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shageeshan/">linkedin</a> ·
