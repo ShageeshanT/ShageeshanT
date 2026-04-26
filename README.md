@@ -5,12 +5,8 @@
 <h2 align="center">Hey, I'm Shageeshan 👋</h2>
 
 <p align="center">
-<<<<<<< HEAD
-  CS undergrad @ SLIIT · Dean's List · GPA 3.76
-=======
-  CS undergrad at SLIIT · Dean's List · GPA 3.76 <br/>
-  AI and Automation Engineer - Developer
->>>>>>> 929b33a2e92a3f9e1803167113a471752e63aa3d
+  CS undergrad @ SLIIT · Dean's List · GPA 3.76 <br/>
+  AI and Automation Engineer · Developer
 </p>
 
 <table align="center">
@@ -29,7 +25,7 @@
 
   </td>
   <td width="45%" align="center">
-    <img src="./matrix.gif" width="320" alt="matrix ascii animation"/>
+    <img src="./gif/giphy.gif" width="320" alt="matrix ascii animation"/>
   </td>
   </tr>
 </table>
