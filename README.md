@@ -15,11 +15,11 @@
 
 <br/>
 
-- coffeeeeeee
-- i draw
-- bad wifi makes me feral
-- two emotional states: **HELLL YEAHHH** or **FAHHH**
-- always coding at 4:59am, never on time
+mass produced in china
+mass producing bugs in github
+mass producing drawings no one asked for
+mass consuming coffee at mass produced rates
+mass producing mass productions
 
 <br/>
 
