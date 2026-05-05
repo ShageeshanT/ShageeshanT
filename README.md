@@ -19,7 +19,7 @@
 
 -mass producing bugs in github
 
--mass producing drawings no one asked for
+-mass production stops when the wifi drops
 
 -mass consuming coffee at mass produced rates
 
