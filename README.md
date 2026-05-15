@@ -6,7 +6,7 @@
 
 <p align="center">
   CS undergrad @ SLIIT · Dean's List · GPA 3.76 <br/>
-  AI and Automation Engineer · Developer
+  AI and Automation Engineer · Developer · Artist
 </p>
 
 <table align="center">
